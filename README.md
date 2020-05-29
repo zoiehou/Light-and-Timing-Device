@@ -6,3 +6,5 @@ Major functionalities:
 2. Displays coloured lights for according signals (eg. yellow - prepare to throw the knife)
 
 The system consists of 2 devices to allow for competition mode, the devices are developed with 1 Arduino Mega 2560, 2 accelerometers, 2 LED Matrix.
+
+This project is developed by a team of 4.
